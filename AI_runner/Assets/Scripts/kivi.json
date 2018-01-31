@@ -1,0 +1,11 @@
+{
+    "measure" : "reward",
+    "thresholds" : [0.10, 0.15, 0.20, 0.25, 0.30, 0.40],
+    "min_lesson_length" : 2,
+    "signal_smoothing" : true,
+    "parameters" :
+    {
+        "Threshold" : [50, 75,  100,  125,  150,  175,  200],
+		    "Frequency" : 	[51, 32, 25, 25, 25, 25, 20]
+    }
+}
